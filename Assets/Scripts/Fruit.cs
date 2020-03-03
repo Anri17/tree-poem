@@ -14,7 +14,7 @@ public class Fruit : MonoBehaviour
 
     void OnMouseDown()
     {
-        gameManager.ShowPoemInformation(poem);
+        gameManager.ShowPoem(poem);
         Debug.Log("Mouse pressed");
     }
 
