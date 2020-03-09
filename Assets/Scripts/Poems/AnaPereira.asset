@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: AnaPereira
   m_EditorClassIdentifier: 
   authorName: Ana Pereira
-  poemText: "Testar poemas \xE9\nO que compete\nNesta grande mar\xE9\nEscolar irritante"
+  poemText: "Acaba por ser sagrada,\nA volta que a vida d\xE1 quebrada\nFoi e ser\xE1
+    vida\nUma vida descrevida"
   poemVoice: {fileID: 0}
-  authorPhoto: {fileID: 0}
+  authorPhoto: {fileID: 21300000, guid: 11c47a2d58ccc7647b575f7c1e0be06a, type: 3}

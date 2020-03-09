@@ -15,6 +15,11 @@ public class GameManager : MonoBehaviour
 
     public Button playButton;
     public Button stopButton;
+    public Slider volumeSlider;
+
+    public bool poemListShowing = false;
+
+    public Animator listAnimator;
 
     void Awake()
     {
@@ -77,6 +82,23 @@ public class GameManager : MonoBehaviour
         if (poemAudio.clip != null)
         {
             poemAudio.Stop();
+        }
+    }
+
+    public void ChangeAudioVolume()
+    {
+        poemAudio.volume = volumeSlider.value;  
+    }
+
+    public void TogglePoemList()
+    {
+        if (listAnimator.GetBool("listShown"))
+        {
+            listAnimator.SetBool("listShown", false);
+        }
+        else if (!listAnimator.GetBool("listShown"))
+        {
+            listAnimator.SetBool("listShown", true);
         }
     }
 }

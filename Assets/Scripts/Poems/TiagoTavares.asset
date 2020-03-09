@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f72ad1a8d855aaf40ab29fcf06db2564, type: 3}
+  m_Name: TiagoTavares
+  m_EditorClassIdentifier: 
+  authorName: Tiago Tavares
+  poemText: "Porque sem a terra estamos mortos\nSem o nosso eco-sistema estamos a
+    morrer\nPraticamos genocidio com a natureza\nE n\xE3o a ouvimos a sofrer"
+  poemVoice: {fileID: 8300000, guid: d0ccd9b2f63b41f4cba91e11030bb1bb, type: 3}
+  authorPhoto: {fileID: 21300000, guid: 6a83b89a4139f694691523493b1d953b, type: 3}

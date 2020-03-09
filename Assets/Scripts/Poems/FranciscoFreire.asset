@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: FranciscoFreire
   m_EditorClassIdentifier: 
   authorName: Francisco Freire
-  poemText: "Testar poemas \xE9\nO que compete\nNesta grande mar\xE9\nEscolar irritante"
-  poemVoice: {fileID: 0}
-  authorPhoto: {fileID: 0}
+  poemText: "Por tr\xE1s de todo o som, existe uma nota\r\nPor tr\xE1s de toda a luz,
+    existe uma cor\r\nPor tr\xE1s de todo o m\xFAsico, existe dedica\xE7\xE3o\r\n\nDedica\xE7\xE3o
+    que s\xF3 se ouve numa can\xE7\xE3o"
+  poemVoice: {fileID: 8300000, guid: 121395aedf033d143ae6f7c84c2e48a1, type: 3}
+  authorPhoto: {fileID: 21300000, guid: f0799e834f2649145bcd00e571f04f68, type: 3}
