@@ -13,6 +13,10 @@ MonoBehaviour:
   m_Name: DaniloFerreira
   m_EditorClassIdentifier: 
   authorName: Danilo Ferreira
-  poemText: 
+  poemText: "Eu estou deitado\nNum jardim cheio de \xE1rvores e rosas\nA pensar naquela
+    mariposa\nQue passou \xE0 frente na minha porta\nToda charmosa e formosa\n\xC9
+    perfeita aquela mo\xE7a.\n\nEstou a pensar naquela donzela\nNo cimo da uma torre\nE
+    eu c\xE1 em baixo\nCom os p\xE9s nas rosas\nPreparado para subir\nE salvar o meu
+    amor."
   poemVoice: {fileID: 8300000, guid: c25ce205828c34949b1f90e93216b024, type: 3}
   authorPhoto: {fileID: 21300000, guid: 7bf1b020f9deddf47a6a26ff1d038590, type: 3}
