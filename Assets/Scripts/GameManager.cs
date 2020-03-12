@@ -92,9 +92,11 @@ public class GameManager : MonoBehaviour
 
     public void TogglePoemList()
     {
+        Debug.Log("Was Run");
         if (listAnimator.GetBool("listShown"))
         {
             listAnimator.SetBool("listShown", false);
+            ClosePoem();
         }
         else if (!listAnimator.GetBool("listShown"))
         {
